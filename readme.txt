@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Addressbar Meta Theme Color ===
 Contributors: williampatton
 Requires at least: 3.0.1
 Tested up to: 4.9
@@ -10,7 +10,7 @@ Changes the address bar colour for users with mobile browsers (works in Chrome a
 
 == Description ==
 
-Use this plugin to output the required meta tag to change the address bar colour in various mobile browsers.
+Use this plugin to output the required meta tag to change the address bar color in various mobile browsers.
 
 == Installation ==
 
